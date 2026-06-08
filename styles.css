@@ -1338,6 +1338,48 @@ blockquote cite {
   margin-top: 30px;
 }
 
+.shop-grid article {
+  position: relative;
+  min-height: 220px;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  border: 0;
+  background:
+    linear-gradient(180deg, rgba(7, 61, 50, 0.06), rgba(7, 61, 50, 0.82)),
+    var(--shop-bg) center/cover;
+  box-shadow: 0 20px 58px rgba(23, 35, 30, 0.12);
+  isolation: isolate;
+}
+
+.shop-grid article::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(135deg, rgba(255, 138, 31, 0.18), rgba(67, 190, 200, 0.12));
+  opacity: 0;
+  transition: opacity 220ms ease;
+}
+
+.shop-grid article:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 28px 70px rgba(23, 35, 30, 0.18);
+}
+
+.shop-grid article:hover::before {
+  opacity: 1;
+}
+
+.shop-grid article h3 {
+  max-width: 92%;
+  margin: 0;
+  color: #fff;
+  font-size: 1.35rem;
+  line-height: 1.15;
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.28);
+}
+
 .shop-icon {
   width: 88px;
   border-radius: 50%;
