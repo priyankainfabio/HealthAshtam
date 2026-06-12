@@ -23,80 +23,80 @@ const treatments = [
   {
     title: "PEID - Personalized Enriched Intermittent Diet",
     lead: "Root cause reversal of lifestyle disorders is implemented through proprietary techniques of PEID, DRY and CAD.",
-    body: "Food provides you with Sustainable Nutrition. Sustainable Nutrition keeps you Healthy and ensures that nutrients are provided to your cells.",
-    note: "Synergizing the benefits of Sustainable Nutrition with Intermittent Fasting increases the benefits severalfold.",
+    body: "Food provides you with Sustainable Nutrition. Sustainable Nutrition keeps you Healthy and ensures that your liver produces the required enzymes to digest your food so that Nutrients are provided to your cells.",
+    note: "Sustainable Nutrition removes toxins from your body. Elimination of Toxins slowly and Naturally automatically helps you lose the associated fat and you lose weight naturally without Rebounding. Synergizing the benefits of Sustainable Nutrition with Intermittent Fasting increases the benefits severalfold.",
     image: "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1200&q=80",
     alt: "Sustainable nutrition ingredients"
   },
   {
     title: "Cleanse Your Body",
-    lead: "Cleanse Your Body focuses on eliminating toxins slowly and naturally.",
-    body: "Sustainable Nutrition removes toxins from your body and supports a healthier metabolism.",
-    note: "This helps weight reduce naturally without rebounding.",
+    lead: "Sustainable Nutrition removes toxins from your body.",
+    body: "Elimination of Toxins slowly and Naturally automatically helps you lose the associated fat and you lose weight naturally without Rebounding.",
+    note: "To correct the disorder, HealthAshtam approaches the challenge through the root cause.",
     image: "https://images.unsplash.com/photo-1543362906-acfc16c67564?auto=format&fit=crop&w=1200&q=80",
     alt: "Fresh natural detox ingredients"
   },
   {
     title: "Sustainable Nutrition",
-    lead: "Sustainable Nutrition keeps you healthy and supports better daily energy.",
-    body: "It helps your liver produce the required enzymes to digest food so nutrients can reach your cells.",
-    note: "Food is treated as steady nourishment, not starvation.",
+    lead: "Food provides you with Sustainable Nutrition.",
+    body: "Sustainable Nutrition keeps you Healthy and ensures that your liver produces the required enzymes to digest your food so that Nutrients are provided to your cells.",
+    note: "Sustainable Nutrition makes your cells healthy and increases your metabolism.",
     image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80",
     alt: "Healthy balanced meal"
   },
   {
     title: "Physical Activity",
-    lead: "Physical Activity supports the 8-step process through gentle, consistent movement.",
-    body: "HealthAshtam promotes minor changes that help people find the path to a happier healthier lifestyle.",
-    note: "The goal is a lifestyle you can continue.",
+    lead: "Let us help you make minor changes to gently find the path to a happier healthier lifestyle.",
+    body: "We are promoting the perspective that health is based on more than one pivot.",
+    note: "It is based on taking a series of steps so that you enjoy physical, mental, emotional and spiritual health.",
     image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=1200&q=80",
     alt: "Person stretching outdoors"
   },
   {
     title: "DRY - Deep Relaxation Yoga",
-    lead: "DRY is proposed as a tool for reducing internal stress levels.",
-    body: "DRY encompasses yogic asanas with meditative awareness and systematic pranayama practice.",
-    note: "The aim is a relaxed body with better balance.",
+    lead: "HealthAshtam, therefore, proposes DRY (Deep Relaxation Yoga) as a tool for reducing internal stress levels.",
+    body: "DRY encompasses the practice of yogic asanas with meditative awareness, systematic practice of pranayama to balance the flow of prana as well as the balance of the sympathetic and parasympathetic nervous system, and combining these practices with Mudra and Bandhas.",
+    note: "DRY is an effective technique to lower Cortisol levels.",
     image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
     alt: "Deep relaxation yoga practice"
   },
   {
     title: "Positive Emotion",
-    lead: "Positive Emotion supports the mental and emotional pillar of HealthAshtam.",
-    body: "Health is based on taking a series of steps so you enjoy physical, mental, emotional and spiritual health.",
-    note: "Small shifts in routine can support a calmer state.",
+    lead: "Health is based on more than one pivot.",
+    body: "It is based on taking a series of steps so that you enjoy physical, mental, emotional and spiritual health.",
+    note: "Let us help you make minor changes to gently find the path to a happier healthier lifestyle.",
     image: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80",
     alt: "Happy wellness community"
   },
   {
     title: "Relaxed Sleep",
-    lead: "Relaxed Sleep is part of the 8-step process for lifestyle disorder reversal.",
-    body: "A relaxed mind and body support healthier daily rhythm and recovery.",
-    note: "The process looks at the whole lifestyle, not only one symptom.",
+    lead: "These scientific breakthroughs in the last 10-15 years show that healthy living is only possible if your body is relaxed so that Cortisol levels remain below a critical threshold.",
+    body: "Modern man is in a constant state of heightened stress and hence has a higher concentration of stress hormones like cortisol and adrenalin.",
+    note: "DRY is an effective technique to lower Cortisol levels.",
     image: "https://images.unsplash.com/photo-1511295742362-92c96b1cf484?auto=format&fit=crop&w=1200&q=80",
     alt: "Peaceful bedroom for sleep"
   },
   {
     title: "Nature Connect",
-    lead: "Nature Connect brings daily living closer to natural rhythm.",
-    body: "HealthAshtam promotes the perspective that health is based on more than one pivot.",
-    note: "Nature is part of the mind, body and spirit balance.",
+    lead: "We are promoting the perspective that health is based on more than one pivot.",
+    body: "It is based on taking a series of steps so that you enjoy physical, mental, emotional and spiritual health.",
+    note: "Our programs involve intensive research and follow the latest scientific recommendations from India and around the world.",
     image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
     alt: "Forest nature path"
   },
   {
     title: "CAD - Chakra Activated Dhyan",
     lead: "CAD helps you experience the world of Quantum Physics and Spiritual Energy.",
-    body: "Using age-old techniques in a methodical manner, CAD unblocks lower Chakras and activates higher Chakras.",
-    note: "It supports rejuvenation at physical, mental, emotional and spiritual levels.",
+    body: "Using age-old techniques in a methodical manner CAD unblocks your lower Chakras and then activates your higher Chakras so that you become one with the Universal Energy.",
+    note: "CAD is a powerful technique to rejuvenate yourself completely thereby reversing all existing disorders at the physical, mental, emotional and spiritual levels.",
     image: "https://images.unsplash.com/photo-1545389336-cf090694435e?auto=format&fit=crop&w=1200&q=80",
     alt: "Meditation practice"
   },
   {
     title: "Heal Yourself",
-    lead: "Heal Yourself is the outcome HealthAshtam moves toward gently.",
-    body: "Let us help you make minor changes to find the path to a happier healthier lifestyle.",
-    note: "The program brings science together with mind, body and spirit.",
+    lead: "Rejuvenation and Self Healing take place when you are in a state of pure potentiality in union with the Supreme Universal Energy.",
+    body: "CAD is a proprietary process of HealthAshtam that helps you experience the world of Quantum Physics and Spiritual Energy.",
+    note: "Let us help you make minor changes to gently find the path to a happier healthier lifestyle.",
     image: "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?auto=format&fit=crop&w=1200&q=80",
     alt: "Healthy lifestyle ingredients"
   }
@@ -171,6 +171,18 @@ treatmentButtons.forEach((button) => {
 });
 
 const revealGroups = [
+  ".approach-compare",
+  ".fail-panel h2",
+  ".symptom-row article",
+  ".versus",
+  ".root-panel .approach-label",
+  ".root-panel h2",
+  ".approach-icons article",
+  ".approach-stats",
+  ".method-copy",
+  ".method-stage",
+  ".wheel-node",
+  ".method-callout",
   ".choice-strip a",
   ".intro-copy",
   ".intro-image",
